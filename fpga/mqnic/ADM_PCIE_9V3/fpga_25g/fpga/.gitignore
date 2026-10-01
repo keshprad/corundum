@@ -1,4 +1,6 @@
 # Vivado and Makefile-generated outputs. Keep the hand-maintained Makefile and config.tcl.
+# Retain this build log as a record of the current board build.
+!/build.log
 /*.bit
 /*.ltx
 /*.mcs
